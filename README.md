@@ -334,26 +334,6 @@ git checkout -b feature/your-feature-name
 
 ---
 
-## 📊 **Analytics & Insights**
-
-<div align="center">
-
-### **Project Statistics**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chowhanm25&repo=SportsAnalyticsPro&show_icons=true&theme=radical)
-
-### **Language Distribution**
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chowhanm25&layout=compact&theme=radical)
-
-### **Activity Graph**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chowhanm25&theme=react-dark)
-
-</div>
-
----
-
 ## 🏆 **Achievements**
 
 <div align="center">
